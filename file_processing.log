@@ -802,3 +802,810 @@
 2024-10-20 14:39:36,137 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/navigation/landlord_nav_rail.dart
 2024-10-20 14:39:39,080 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2024-10-20 14:39:39,093 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/screens/landlord_chats_screen.dart
+2024-10-20 14:47:57,328 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:47:57,329 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:47:57,424 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_bloc.dart
+2024-10-20 14:47:57,425 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_bloc.dart
+2024-10-20 14:47:57,425 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_event.dart
+2024-10-20 14:47:59,955 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:47:59,963 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_state.dart
+2024-10-20 14:48:02,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:02,396 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_bloc.dart
+2024-10-20 14:48:02,397 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_bloc.dart
+2024-10-20 14:48:02,397 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_event.dart
+2024-10-20 14:48:04,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:04,857 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_state.dart
+2024-10-20 14:48:07,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:07,460 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bank_details_bloc/bank_details_bloc.dart
+2024-10-20 14:48:07,461 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bank_details_bloc/bank_details_bloc.dart
+2024-10-20 14:48:07,461 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bank_details_bloc/bank_details_event.dart
+2024-10-20 14:48:09,622 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:09,637 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bank_details_bloc/bank_details_state.dart
+2024-10-20 14:48:11,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:11,175 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bio_input_bloc/bio_input_bloc.dart
+2024-10-20 14:48:11,176 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bio_input_bloc/bio_input_bloc.dart
+2024-10-20 14:48:11,176 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bio_input_bloc/bio_input_event.dart
+2024-10-20 14:48:13,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:13,454 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bio_input_bloc/bio_input_state.dart
+2024-10-20 14:48:15,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:15,326 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/cha_room/bloc/chatroom_bloc.dart
+2024-10-20 14:48:15,335 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/cha_room/bloc/chatroom_bloc.dart
+2024-10-20 14:48:15,336 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/cha_room/bloc/chatroom_event.dart
+2024-10-20 14:48:17,911 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:17,925 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/cha_room/bloc/chatroom_state.dart
+2024-10-20 14:48:22,053 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:22,059 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/complete_job_bloc/complete_job_bloc.dart
+2024-10-20 14:48:22,069 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/complete_job_bloc/complete_job_bloc.dart
+2024-10-20 14:48:22,069 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/complete_job_bloc/complete_job_event.dart
+2024-10-20 14:48:24,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:24,922 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/complete_job_bloc/complete_job_state.dart
+2024-10-20 14:48:27,753 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:27,773 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/edit_company_details_bloc/edit_company_details_bloc.dart
+2024-10-20 14:48:30,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:30,064 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor/contractor_company_details.dart
+2024-10-20 14:48:30,065 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor/contractor_company_details.dart
+2024-10-20 14:48:30,065 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_name/company_name.dart
+2024-10-20 14:48:30,065 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_name/company_name.dart
+2024-10-20 14:48:30,065 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:48:30,066 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:48:30,066 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:48:30,066 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:48:30,066 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/company_number/company_number.dart
+2024-10-20 14:48:30,066 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/company_number/company_number.dart
+2024-10-20 14:48:30,066 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/vat_number/vat_number.dart
+2024-10-20 14:48:30,067 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/vat_number/vat_number.dart
+2024-10-20 14:48:30,067 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:48:30,067 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:48:30,067 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:48:30,067 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:48:30,067 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:48:30,068 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:48:30,069 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/edit_company_details_bloc/edit_company_details_event.dart
+2024-10-20 14:48:32,291 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:32,302 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/edit_company_details_bloc/edit_company_details_state.dart
+2024-10-20 14:48:34,871 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:34,875 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/job_detail/job_detail_bloc.dart
+2024-10-20 14:48:34,876 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/job_detail/job_detail_bloc.dart
+2024-10-20 14:48:34,876 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/job_detail/job_detail_event.dart
+2024-10-20 14:48:37,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:37,097 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/job_detail/job_detail_state.dart
+2024-10-20 14:48:39,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:39,382 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_bloc.dart
+2024-10-20 14:48:39,386 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_bloc.dart
+2024-10-20 14:48:39,386 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_event.dart
+2024-10-20 14:48:42,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:42,091 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_state.dart
+2024-10-20 14:48:45,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:45,190 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mark_users_bloc/mark_users_bloc.dart
+2024-10-20 14:48:45,203 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mark_users_bloc/mark_users_bloc.dart
+2024-10-20 14:48:45,203 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mark_users_bloc/mark_users_event.dart
+2024-10-20 14:48:47,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:47,145 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mark_users_bloc/mark_users_state.dart
+2024-10-20 14:48:50,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:50,116 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mobile_upload_doc_bloc/mupload_doc_bloc.dart
+2024-10-20 14:48:50,117 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mobile_upload_doc_bloc/mupload_doc_bloc.dart
+2024-10-20 14:48:50,117 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mobile_upload_doc_bloc/mupload_doc_event.dart
+2024-10-20 14:48:52,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:52,344 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mobile_upload_doc_bloc/mupload_doc_state.dart
+2024-10-20 14:48:54,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:54,085 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/portfolio_bloc/portfolio_bloc.dart
+2024-10-20 14:48:54,086 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/portfolio_bloc/portfolio_bloc.dart
+2024-10-20 14:48:54,086 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/portfolio_bloc/portfolio_event.dart
+2024-10-20 14:48:56,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:56,369 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/portfolio_bloc/portfolio_state.dart
+2024-10-20 14:48:59,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:48:59,287 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/share_resource_bloc/share_resource_bloc.dart
+2024-10-20 14:49:01,598 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:01,604 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:49:01,605 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:49:01,605 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:49:01,606 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:49:01,606 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:49:01,606 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:49:01,606 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:49:01,607 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:49:01,607 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:49:01,607 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:49:01,607 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:49:01,607 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:49:01,609 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/share_resource_bloc/share_resource_event.dart
+2024-10-20 14:49:04,164 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:04,168 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/share_resource_bloc/share_resource_state.dart
+2024-10-20 14:49:07,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:07,495 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/sign_in/sign_in_bloc.dart
+2024-10-20 14:49:09,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:09,519 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:09,528 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:09,528 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/i_auth_facade.dart
+2024-10-20 14:49:12,202 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:12,206 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:12,206 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:12,206 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:12,215 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:12,216 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:12,216 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:12,217 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/sign_in/sign_in_event.dart
+2024-10-20 14:49:14,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:14,801 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/sign_in/sign_in_state.dart
+2024-10-20 14:49:17,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:17,175 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/supplements/supplement_detail_bloc/supplement_detail_bloc.dart
+2024-10-20 14:49:17,176 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/supplements/supplement_detail_bloc/supplement_detail_bloc.dart
+2024-10-20 14:49:17,176 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/supplements/supplement_detail_bloc/supplement_detail_event.dart
+2024-10-20 14:49:18,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:18,904 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/supplements/supplement_detail_bloc/supplement_detail_state.dart
+2024-10-20 14:49:21,421 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:21,430 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_bloc.dart
+2024-10-20 14:49:21,439 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_bloc.dart
+2024-10-20 14:49:21,439 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_event.dart
+2024-10-20 14:49:23,051 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:23,053 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_state.dart
+2024-10-20 14:49:26,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:26,105 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/ui/theme_cubit.dart
+2024-10-20 14:49:26,106 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/ui/theme_cubit.dart
+2024-10-20 14:49:26,106 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/upload_doc/upload_doc_bloc.dart
+2024-10-20 14:49:26,107 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/upload_doc/upload_doc_bloc.dart
+2024-10-20 14:49:26,107 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/upload_doc/upload_doc_event.dart
+2024-10-20 14:49:28,373 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:28,387 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/upload_doc/upload_doc_state.dart
+2024-10-20 14:49:30,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:30,501 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/firebase_collections/tw_firebase_collections.dart
+2024-10-20 14:49:30,502 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/firebase_collections/tw_firebase_collections.dart
+2024-10-20 14:49:30,502 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/infrastructure/auth/firebase_auth_facade.dart
+2024-10-20 14:49:32,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:32,454 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:32,458 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:32,458 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:32,459 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:32,459 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/password/password.dart
+2024-10-20 14:49:32,459 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/password/password.dart
+2024-10-20 14:49:32,461 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/admin/admin_model.dart
+2024-10-20 14:49:32,461 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/admin/admin_model.dart
+2024-10-20 14:49:32,462 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:32,462 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:49:32,462 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/i_auth_facade.dart
+2024-10-20 14:49:32,462 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/authcode/authcode_model.dart
+2024-10-20 14:49:32,462 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/authcode/authcode_model.dart
+2024-10-20 14:49:32,463 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:49:32,463 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:49:32,463 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid/bid_action.dart
+2024-10-20 14:49:34,209 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:34,216 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid/job_bid.dart
+2024-10-20 14:49:34,221 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid/job_bid.dart
+2024-10-20 14:49:34,221 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_supplement/supplement_bid.dart
+2024-10-20 14:49:34,226 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_supplement/supplement_bid.dart
+2024-10-20 14:49:34,226 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:49:34,228 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:49:34,228 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_item.dart
+2024-10-20 14:49:34,229 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_item.dart
+2024-10-20 14:49:34,229 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:49:34,229 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:49:34,229 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company.dart
+2024-10-20 14:49:34,230 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company.dart
+2024-10-20 14:49:34,230 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_creation_failure.dart
+2024-10-20 14:49:34,230 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_creation_failure.dart
+2024-10-20 14:49:34,230 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_update_failure.dart
+2024-10-20 14:49:34,230 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_update_failure.dart
+2024-10-20 14:49:34,230 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor/contractor_company_details.dart
+2024-10-20 14:49:34,231 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor/contractor_company_details.dart
+2024-10-20 14:49:34,231 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor_rating/contractor_rating.dart
+2024-10-20 14:49:34,231 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor_rating/contractor_rating.dart
+2024-10-20 14:49:34,231 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/address/tw_address.dart
+2024-10-20 14:49:36,818 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:36,823 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:36,830 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:36,832 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_domain/company_domain.dart
+2024-10-20 14:49:36,835 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_domain/company_domain.dart
+2024-10-20 14:49:36,835 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_name/company_name.dart
+2024-10-20 14:49:36,837 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_name/company_name.dart
+2024-10-20 14:49:36,837 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/diplay_name/display_name.dart
+2024-10-20 14:49:36,837 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/diplay_name/display_name.dart
+2024-10-20 14:49:36,837 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/invoice_objects/invoice_description.dart
+2024-10-20 14:49:36,838 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/invoice_objects/invoice_description.dart
+2024-10-20 14:49:36,838 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/invoice_objects/save_subbie_invoicing_details_request_failure/save_subbie_invoicing_details_request_failure.dart
+2024-10-20 14:49:39,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:39,097 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/marked_user/marked_user.dart
+2024-10-20 14:49:39,097 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/marked_user/marked_user.dart
+2024-10-20 14:49:39,106 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/phone/phone.dart
+2024-10-20 14:49:39,109 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/phone/phone.dart
+2024-10-20 14:49:39,109 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_date/tw_date.dart
+2024-10-20 14:49:39,111 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_date/tw_date.dart
+2024-10-20 14:49:39,111 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:49:39,118 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:49:39,118 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_min_length_string/tw_min_length_string.dart
+2024-10-20 14:49:39,119 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_min_length_string/tw_min_length_string.dart
+2024-10-20 14:49:39,119 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_number/tw_number.dart
+2024-10-20 14:49:39,119 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_number/tw_number.dart
+2024-10-20 14:49:39,119 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/user_bio/user_bio.dart
+2024-10-20 14:49:39,119 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/user_bio/user_bio.dart
+2024-10-20 14:49:39,119 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/validated_object.dart
+2024-10-20 14:49:39,120 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/validated_object.dart
+2024-10-20 14:49:39,120 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/work/work.dart
+2024-10-20 14:49:41,942 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:41,962 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/development_project_model.dart
+2024-10-20 14:49:41,967 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/development_project_model.dart
+2024-10-20 14:49:41,967 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_description/dev_description.dart
+2024-10-20 14:49:41,968 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_description/dev_description.dart
+2024-10-20 14:49:41,968 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_size/dev_size.dart
+2024-10-20 14:49:43,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:43,986 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:43,986 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:43,987 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_title/dev_title.dart
+2024-10-20 14:49:43,988 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_title/dev_title.dart
+2024-10-20 14:49:43,988 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_type/dev_type.dart
+2024-10-20 14:49:46,408 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:46,418 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:46,418 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:46,419 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_value/dev_value.dart
+2024-10-20 14:49:48,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:48,791 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:48,791 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:48,792 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:48,792 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:49:48,793 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/enums.dart
+2024-10-20 14:49:48,793 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/enums.dart
+2024-10-20 14:49:48,793 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:48,793 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:49:48,793 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/event_models/event_item.dart
+2024-10-20 14:49:48,793 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/event_models/event_item.dart
+2024-10-20 14:49:48,793 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:49:48,793 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:49:48,793 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/address.dart
+2024-10-20 14:49:51,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:51,988 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/agent.dart
+2024-10-20 14:49:55,064 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:55,069 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/externallandmodel.dart
+2024-10-20 14:49:55,075 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/externallandmodel.dart
+2024-10-20 14:49:55,075 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/location.dart
+2024-10-20 14:49:56,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:56,852 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/failure.dart
+2024-10-20 14:49:58,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:49:58,922 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/job_bid_feedback/job_bid_feedback.dart
+2024-10-20 14:49:58,925 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/job_bid_feedback/job_bid_feedback.dart
+2024-10-20 14:49:58,925 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/supplement_bid_feedback/supplement_bid_feedback.dart
+2024-10-20 14:50:01,297 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:01,308 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:50:01,333 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:50:01,334 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/tender_bid_feedback/tender_bid_feedback.dart
+2024-10-20 14:50:01,338 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/tender_bid_feedback/tender_bid_feedback.dart
+2024-10-20 14:50:01,338 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/job_feedback/job_feedback.dart
+2024-10-20 14:50:01,342 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/job_feedback/job_feedback.dart
+2024-10-20 14:50:01,342 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/pending_job_feedback/pending_job_feedback.dart
+2024-10-20 14:50:03,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:03,281 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/supplement_feedback/supplement_feedback.dart
+2024-10-20 14:50:03,282 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/supplement_feedback/supplement_feedback.dart
+2024-10-20 14:50:03,282 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/tender_feedback/tender_feedback.dart
+2024-10-20 14:50:03,282 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/tender_feedback/tender_feedback.dart
+2024-10-20 14:50:03,282 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/full_user.dart
+2024-10-20 14:50:03,283 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/full_user.dart
+2024-10-20 14:50:03,283 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invite_to_bid.dart
+2024-10-20 14:50:03,283 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invite_to_bid.dart
+2024-10-20 14:50:03,283 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoice_model.dart
+2024-10-20 14:50:03,283 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoice_model.dart
+2024-10-20 14:50:03,283 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoiceItem_model.dart
+2024-10-20 14:50:03,284 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoiceItem_model.dart
+2024-10-20 14:50:03,284 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoicing_details_model.dart
+2024-10-20 14:50:03,284 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoicing_details_model.dart
+2024-10-20 14:50:03,284 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/receipt_phooto.dart
+2024-10-20 14:50:03,284 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/receipt_phooto.dart
+2024-10-20 14:50:03,284 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/company_number/company_number.dart
+2024-10-20 14:50:03,284 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/company_number/company_number.dart
+2024-10-20 14:50:03,284 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/invoice_ref/invoice_ref.dart
+2024-10-20 14:50:03,285 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/invoice_ref/invoice_ref.dart
+2024-10-20 14:50:03,285 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/payment_term/payment_term.dart
+2024-10-20 14:50:03,285 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/payment_term/payment_term.dart
+2024-10-20 14:50:03,285 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/trading_name/trading_name.dart
+2024-10-20 14:50:03,285 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/trading_name/trading_name.dart
+2024-10-20 14:50:03,285 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/vat_number/vat_number.dart
+2024-10-20 14:50:03,285 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/vat_number/vat_number.dart
+2024-10-20 14:50:03,285 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job.dart
+2024-10-20 14:50:03,286 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job.dart
+2024-10-20 14:50:03,286 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job_action.dart
+2024-10-20 14:50:03,286 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job_action.dart
+2024-10-20 14:50:03,286 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/value_objects/job_timeline/job_timeline.dart
+2024-10-20 14:50:03,286 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/value_objects/job_timeline/job_timeline.dart
+2024-10-20 14:50:03,286 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/coordinates.dart
+2024-10-20 14:50:05,473 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:05,551 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:50:05,552 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:50:05,552 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/postciode_lookup_model.dart
+2024-10-20 14:50:05,553 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/postciode_lookup_model.dart
+2024-10-20 14:50:05,553 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/raw_address_model.dart
+2024-10-20 14:50:05,553 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/raw_address_model.dart
+2024-10-20 14:50:05,553 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/maintenance_project_model.dart
+2024-10-20 14:50:05,553 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/maintenance_project_model.dart
+2024-10-20 14:50:05,554 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/value_objects/maintenance_description/maintenance_description.dart
+2024-10-20 14:50:07,461 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:07,466 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:07,473 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:07,475 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/value_objects/maintenance_size/maintenance_size.dart
+2024-10-20 14:50:09,955 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:09,958 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:09,959 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:09,961 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/value_objects/maintenance_title/maintenance_title.dart
+2024-10-20 14:50:11,687 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:11,698 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:11,699 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:11,700 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/value_objects/maintenance_type/maintenance_type.dart
+2024-10-20 14:50:14,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:14,106 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:14,106 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:14,107 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/value_objects/maintenance_value/maintenance_value.dart
+2024-10-20 14:50:16,362 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:16,368 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:16,368 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:16,370 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/password/password.dart
+2024-10-20 14:50:16,375 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/password/password.dart
+2024-10-20 14:50:16,376 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/pending_job_rating.dart
+2024-10-20 14:50:18,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:18,108 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/position_converter.dart
+2024-10-20 14:50:19,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:19,756 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/profile_completion/profile_completion_failure.dart
+2024-10-20 14:50:19,762 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/profile_completion/profile_completion_failure.dart
+2024-10-20 14:50:19,762 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/project_history_model/project_history_model.dart
+2024-10-20 14:50:21,605 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:21,615 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/project_model/project_model.dart
+2024-10-20 14:50:21,619 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/project_model/project_model.dart
+2024-10-20 14:50:21,619 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/financial_summary_model.dart
+2024-10-20 14:50:21,623 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/financial_summary_model.dart
+2024-10-20 14:50:21,623 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/mortgage_model.dart
+2024-10-20 14:50:21,623 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/mortgage_model.dart
+2024-10-20 14:50:21,623 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/payment_model.dart
+2024-10-20 14:50:21,624 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/payment_model.dart
+2024-10-20 14:50:21,624 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/property_model.dart
+2024-10-20 14:50:21,624 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/property_model.dart
+2024-10-20 14:50:21,624 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/room_model.dart
+2024-10-20 14:50:21,624 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/room_model.dart
+2024-10-20 14:50:21,624 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/tenant_model.dart
+2024-10-20 14:50:21,624 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/tenant_model.dart
+2024-10-20 14:50:21,624 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/amortisitaion_vo/amortization_schedule_entry_vo.dart
+2024-10-20 14:50:21,625 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/amortisitaion_vo/amortization_schedule_entry_vo.dart
+2024-10-20 14:50:21,625 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/financial_summary_vo/financial_summary_vo.dart
+2024-10-20 14:50:21,625 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/financial_summary_vo/financial_summary_vo.dart
+2024-10-20 14:50:21,625 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/money_vo/money_vo.dart
+2024-10-20 14:50:21,625 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/money_vo/money_vo.dart
+2024-10-20 14:50:21,625 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/mortgage_vo/mortgage_vo.dart
+2024-10-20 14:50:21,625 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/mortgage_vo/mortgage_vo.dart
+2024-10-20 14:50:21,625 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/payments_vo/payments_vo.dart
+2024-10-20 14:50:21,625 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/payments_vo/payments_vo.dart
+2024-10-20 14:50:21,626 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_description/property_description.dart
+2024-10-20 14:50:21,626 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_description/property_description.dart
+2024-10-20 14:50:21,626 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_title/property_title.dart
+2024-10-20 14:50:21,626 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_title/property_title.dart
+2024-10-20 14:50:21,626 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/rooms_vo/room_vo.dart
+2024-10-20 14:50:21,626 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/rooms_vo/room_vo.dart
+2024-10-20 14:50:21,626 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/tenant_vo/tenant_vo.dart
+2024-10-20 14:50:21,626 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/tenant_vo/tenant_vo.dart
+2024-10-20 14:50:21,626 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/refurbishment_project_model.dart
+2024-10-20 14:50:21,627 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/refurbishment_project_model.dart
+2024-10-20 14:50:21,627 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/value_objects/refurb_description/refurb_description.dart
+2024-10-20 14:50:24,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:24,107 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:24,107 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:24,108 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/value_objects/refurb_size/refurb_size.dart
+2024-10-20 14:50:25,709 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:25,715 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:25,715 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:25,718 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/value_objects/refurb_title/refurb_title.dart
+2024-10-20 14:50:28,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:28,153 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:28,153 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:28,156 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/value_objects/refurb_type/refurb_type.dart
+2024-10-20 14:50:30,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:30,281 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:30,281 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:30,283 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/value_objects/refurb_value/refurb_value.dart
+2024-10-20 14:50:32,425 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:32,431 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:32,431 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:32,433 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/refurbishment_project_model.dart
+2024-10-20 14:50:35,789 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:35,805 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:50:35,805 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:50:35,806 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:50:35,806 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:50:35,806 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:50:35,806 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:50:35,806 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:50:35,806 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:50:35,806 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:50:35,807 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:50:35,807 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:50:35,807 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:50:35,808 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/value_objects/refurb_description/refurb_description.dart
+2024-10-20 14:50:38,081 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:38,101 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:38,101 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:38,103 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/value_objects/refurb_size/refurb_size.dart
+2024-10-20 14:50:40,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:40,098 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:40,098 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:40,098 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/value_objects/refurb_title/refurb_title.dart
+2024-10-20 14:50:42,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:42,925 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:42,925 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:42,928 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/value_objects/refurb_type/refurb_type.dart
+2024-10-20 14:50:44,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:44,804 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:44,804 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:44,805 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbisment_project/value_objects/refurb_value/refurb_value.dart
+2024-10-20 14:50:47,313 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:47,324 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:47,324 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:50:47,326 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/research_model.dart
+2024-10-20 14:50:47,328 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/research_model.dart
+2024-10-20 14:50:47,328 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_description_vo.dart
+2024-10-20 14:50:47,329 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_description_vo.dart
+2024-10-20 14:50:47,329 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_tag_vo.dart
+2024-10-20 14:50:48,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:48,995 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_title_vo.dart
+2024-10-20 14:50:48,995 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_title_vo.dart
+2024-10-20 14:50:48,996 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_type_vo.dart
+2024-10-20 14:50:48,996 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_type_vo.dart
+2024-10-20 14:50:48,996 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/subbie_rating/subbie_rating.dart
+2024-10-20 14:50:48,996 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/subbie_rating/subbie_rating.dart
+2024-10-20 14:50:48,996 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/supplement_model.dart
+2024-10-20 14:50:48,996 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/supplement_model.dart
+2024-10-20 14:50:48,996 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/value_objects/supplement_timeline.dart
+2024-10-20 14:50:48,997 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/value_objects/supplement_timeline.dart
+2024-10-20 14:50:48,997 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tenancy_history_model/tenancyhistory_model.dart
+2024-10-20 14:50:53,826 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:53,843 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_failure.dart
+2024-10-20 14:50:58,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:50:58,015 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:50:58,018 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:50:58,018 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_timeline.dart
+2024-10-20 14:50:58,019 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_timeline.dart
+2024-10-20 14:50:58,019 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender_invitation_mail/tender_invitation_email.dart
+2024-10-20 14:50:58,019 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender_invitation_mail/tender_invitation_email.dart
+2024-10-20 14:50:58,019 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/trades.dart
+2024-10-20 14:50:58,019 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/trades.dart
+2024-10-20 14:50:58,019 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:50:58,020 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:50:58,020 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_notification/tw_notification.dart
+2024-10-20 14:50:58,020 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_notification/tw_notification.dart
+2024-10-20 14:50:58,020 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:50:58,020 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:50:58,020 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_company_service_facade.dart
+2024-10-20 14:50:58,021 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_company_service_facade.dart
+2024-10-20 14:50:58,021 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_user_service_facade.dart
+2024-10-20 14:50:58,021 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_user_service_facade.dart
+2024-10-20 14:50:58,021 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_account_number.dart
+2024-10-20 14:50:58,021 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_account_number.dart
+2024-10-20 14:50:58,021 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_sort_code.dart
+2024-10-20 14:50:58,022 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_sort_code.dart
+2024-10-20 14:50:58,022 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/user_bank_details.dart
+2024-10-20 14:50:58,022 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/user_bank_details.dart
+2024-10-20 14:50:58,022 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:50:58,022 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:50:58,022 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/value_failure/value_failure.dart
+2024-10-20 14:51:00,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:00,282 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/value_object/value_object.dart
+2024-10-20 14:51:03,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:03,156 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:51:03,161 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:51:03,161 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/firebase_initialization_error_screen.dart
+2024-10-20 14:51:05,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:05,477 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/m_tw_document_card.dart
+2024-10-20 14:51:08,584 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:08,597 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:51:08,598 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:51:08,598 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:51:08,598 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:51:08,600 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/tw_document_card.dart
+2024-10-20 14:51:08,601 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/tw_document_card.dart
+2024-10-20 14:51:08,601 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/tw_web_splash_screen.dart
+2024-10-20 14:51:10,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:10,391 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/accounting/accounting.dart
+2024-10-20 14:51:10,401 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/accounting/accounting.dart
+2024-10-20 14:51:10,401 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/ai_services/open_ai_completion.dart
+2024-10-20 14:51:13,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:13,863 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:51:13,870 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:51:13,872 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/auth_service.dart
+2024-10-20 14:51:13,875 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/auth_service.dart
+2024-10-20 14:51:13,875 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache.dart
+2024-10-20 14:51:13,875 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache.dart
+2024-10-20 14:51:13,875 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:51:13,876 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:51:13,876 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cardoso_virgil.dart
+2024-10-20 14:51:16,267 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:16,278 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/external_job_services/external_job_service.dart
+2024-10-20 14:51:18,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:18,225 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/firebase_collections/tw_firebase_collections.dart
+2024-10-20 14:51:18,229 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/firebase_collections/tw_firebase_collections.dart
+2024-10-20 14:51:18,230 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:51:18,233 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:51:18,234 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:51:18,234 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:51:18,241 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/external_land_services/external_land_service.dart
+2024-10-20 14:51:18,241 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/external_land_services/external_land_service.dart
+2024-10-20 14:51:18,242 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/in_app_purchases/purchase_api.dart
+2024-10-20 14:51:20,531 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:20,538 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/payment/payment_api.dart
+2024-10-20 14:51:23,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:23,396 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_api.dart
+2024-10-20 14:51:23,396 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_api.dart
+2024-10-20 14:51:23,396 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_invoice_api.dart
+2024-10-20 14:51:23,397 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_invoice_api.dart
+2024-10-20 14:51:23,397 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_service.dart
+2024-10-20 14:51:23,397 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_service.dart
+2024-10-20 14:51:23,397 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/utils.dart
+2024-10-20 14:51:23,398 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/utils.dart
+2024-10-20 14:51:23,398 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/place_service.dart
+2024-10-20 14:51:23,398 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/place_service.dart
+2024-10-20 14:51:23,398 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:51:23,398 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:51:23,398 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:51:23,399 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:51:23,399 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:51:23,399 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:51:23,399 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_subbie.dart
+2024-10-20 14:51:25,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:25,639 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_twusers.dart
+2024-10-20 14:51:28,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:28,367 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_inputdecoration_schemes.dart
+2024-10-20 14:51:28,368 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_inputdecoration_schemes.dart
+2024-10-20 14:51:28,368 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_text_schemes.dart
+2024-10-20 14:51:28,368 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_text_schemes.dart
+2024-10-20 14:51:28,368 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_theme.dart
+2024-10-20 14:51:28,369 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_theme.dart
+2024-10-20 14:51:28,369 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_widget_schemes.dart
+2024-10-20 14:51:30,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:30,637 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:51:30,640 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:51:30,640 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/media_query_data_extensions.dart
+2024-10-20 14:51:30,641 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/media_query_data_extensions.dart
+2024-10-20 14:51:30,641 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/AiChat/ai_chat_input.dart
+2024-10-20 14:51:34,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:34,452 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:51:34,452 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/application/bloc/ai_chat_bloc.dart
+2024-10-20 14:51:34,461 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/application/bloc/ai_chat_bloc.dart
+2024-10-20 14:51:34,463 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/AiChat/ai_chat_ui.dart
+2024-10-20 14:51:34,464 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/AiChat/ai_chat_ui.dart
+2024-10-20 14:51:34,464 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/card_title_template.dart
+2024-10-20 14:51:34,465 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/card_title_template.dart
+2024-10-20 14:51:34,465 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_app_bar.dart
+2024-10-20 14:51:36,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:36,767 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:51:36,768 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_box.dart
+2024-10-20 14:51:38,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:38,667 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_expandable_fab.dart
+2024-10-20 14:51:38,677 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_expandable_fab.dart
+2024-10-20 14:51:38,677 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_open_container.dart
+2024-10-20 14:51:38,683 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_open_container.dart
+2024-10-20 14:51:38,683 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_skeletonizer.dart
+2024-10-20 14:51:40,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:40,539 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/complete_address_input.dart
+2024-10-20 14:51:40,549 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/complete_address_input.dart
+2024-10-20 14:51:40,549 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/doc_selector.dart
+2024-10-20 14:51:40,552 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/doc_selector.dart
+2024-10-20 14:51:40,552 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/field_view.dart
+2024-10-20 14:51:40,552 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/field_view.dart
+2024-10-20 14:51:40,552 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/full_screen_dialog_header.dart
+2024-10-20 14:51:40,552 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/full_screen_dialog_header.dart
+2024-10-20 14:51:40,552 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/m_file_picker.dart
+2024-10-20 14:51:40,553 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/m_file_picker.dart
+2024-10-20 14:51:40,553 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/nay_rail_divider.dart
+2024-10-20 14:51:43,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:43,142 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:51:43,144 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/share_resource_dialog.dart
+2024-10-20 14:51:45,497 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:45,508 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:51:45,512 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:51:45,512 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:51:45,512 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:51:45,512 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:51:45,513 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:51:45,514 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/show_widget.dart
+2024-10-20 14:51:47,110 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:47,115 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:51:47,123 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:51:47,124 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/supplement_card.dart
+2024-10-20 14:51:47,128 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/supplement_card.dart
+2024-10-20 14:51:47,128 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tender_card.dart
+2024-10-20 14:51:47,132 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tender_card.dart
+2024-10-20 14:51:47,132 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme.dart
+2024-10-20 14:51:49,555 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:49,561 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme_switch.dart
+2024-10-20 14:51:49,566 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme_switch.dart
+2024-10-20 14:51:49,566 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/top_banner.dart
+2024-10-20 14:51:49,570 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/top_banner.dart
+2024-10-20 14:51:49,570 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tw_dialogs.dart
+2024-10-20 14:51:49,571 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tw_dialogs.dart
+2024-10-20 14:51:49,571 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tw_web_notification_dialog.dart
+2024-10-20 14:51:51,356 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:51,374 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/web_responsive_layout.dart
+2024-10-20 14:51:53,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:53,567 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/wip_overlay.dart
+2024-10-20 14:51:55,935 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:51:55,949 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/cache_keys.dart
+2024-10-20 14:52:00,284 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:00,298 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/firebase_options.dart
+2024-10-20 14:52:02,057 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:02,062 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:02,062 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:02,062 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/minimized_window.dart
+2024-10-20 14:52:03,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:03,917 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/add_project_bloc.dart
+2024-10-20 14:52:05,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:05,989 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/application/ai_llm_prompts.dart
+2024-10-20 14:52:08,598 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:08,615 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:08,615 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:08,615 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/services/ai_call_service.dart
+2024-10-20 14:52:08,615 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/services/ai_call_service.dart
+2024-10-20 14:52:08,615 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:52:08,616 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:52:08,616 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:52:08,616 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:52:08,616 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_description/dev_description.dart
+2024-10-20 14:52:08,617 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_description/dev_description.dart
+2024-10-20 14:52:08,617 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_title/dev_title.dart
+2024-10-20 14:52:08,617 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_title/dev_title.dart
+2024-10-20 14:52:08,617 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:52:08,617 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:52:08,617 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:52:08,618 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:52:08,618 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:52:08,618 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:52:08,618 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:52:08,618 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:52:08,618 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:52:08,619 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:52:08,621 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/add_project_event.dart
+2024-10-20 14:52:10,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:10,515 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/add_project_state.dart
+2024-10-20 14:52:12,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:12,285 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/chat_screen.dart
+2024-10-20 14:52:14,418 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:14,421 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/tw_app_bar.dart
+2024-10-20 14:52:14,435 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/tw_app_bar.dart
+2024-10-20 14:52:14,435 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/application/bloc/ai_chat_bloc/ai_chat_bloc_bloc.dart
+2024-10-20 14:52:14,437 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/application/bloc/ai_chat_bloc/ai_chat_bloc_bloc.dart
+2024-10-20 14:52:14,437 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_chat_view.dart
+2024-10-20 14:52:14,437 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_chat_view.dart
+2024-10-20 14:52:14,437 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_desktop.dart
+2024-10-20 14:52:14,438 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_desktop.dart
+2024-10-20 14:52:14,438 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_mobile.dart
+2024-10-20 14:52:14,438 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_mobile.dart
+2024-10-20 14:52:14,438 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_bloc.dart
+2024-10-20 14:52:14,438 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_bloc.dart
+2024-10-20 14:52:14,439 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:14,439 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:14,439 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:52:14,439 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:52:14,439 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:14,440 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:14,440 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/tw_drawer.dart
+2024-10-20 14:52:14,440 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/tw_drawer.dart
+2024-10-20 14:52:14,441 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/projects_screen_bloc/projects_screen_bloc.dart
+2024-10-20 14:52:14,443 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/projects_screen_bloc/projects_screen_bloc.dart
+2024-10-20 14:52:14,443 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/projects_screen_bloc/projects_screen_event.dart
+2024-10-20 14:52:16,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:17,002 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/projects_screen_bloc/projects_screen_state.dart
+2024-10-20 14:52:20,597 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:20,608 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/tw_app_bar.dart
+2024-10-20 14:52:20,608 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/tw_app_bar.dart
+2024-10-20 14:52:20,609 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/route_generator.dart
+2024-10-20 14:52:22,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:22,075 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/development_project_model.dart
+2024-10-20 14:52:22,076 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/development_project_model.dart
+2024-10-20 14:52:22,076 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/application/bloc/document_viewer_bloc.dart
+2024-10-20 14:52:22,076 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/application/bloc/document_viewer_bloc.dart
+2024-10-20 14:52:22,077 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/screens/find_screen.dart
+2024-10-20 14:52:22,077 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/screens/find_screen.dart
+2024-10-20 14:52:22,077 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/bids/ui/bids_page.dart
+2024-10-20 14:52:25,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:25,532 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:25,536 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:25,536 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/bids/application/contractor_bids_bloc/contractor_bids_bloc.dart
+2024-10-20 14:52:27,991 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:28,001 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:28,006 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:28,006 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:28,006 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:28,006 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:28,007 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:28,007 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/chat/ui/chat_page.dart
+2024-10-20 14:52:30,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:30,917 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:30,917 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:30,918 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:52:30,927 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:52:30,927 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/user_service.dart
+2024-10-20 14:52:30,929 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/user_service.dart
+2024-10-20 14:52:30,929 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/chat/application/contractor_chats_bloc/contractor_chats_bloc.dart
+2024-10-20 14:52:32,880 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:32,884 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:52:32,884 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:52:32,884 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/services/chat_facade.dart
+2024-10-20 14:52:32,884 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/services/chat_facade.dart
+2024-10-20 14:52:32,884 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:32,884 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:32,885 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/docs/ui/docs_page.dart
+2024-10-20 14:52:35,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:35,761 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:35,761 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:35,762 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_mobile.dart
+2024-10-20 14:52:35,766 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_mobile.dart
+2024-10-20 14:52:35,766 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/navigation/nav_drawer.dart
+2024-10-20 14:52:38,248 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:38,254 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/navigation/nav_items.dart
+2024-10-20 14:52:41,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:41,025 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/find/ui/find_page.dart
+2024-10-20 14:52:43,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:43,618 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:43,618 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:43,618 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/find/application/home_bloc/home_bloc.dart
+2024-10-20 14:52:45,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:45,438 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:45,447 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:52:45,447 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:45,452 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:52:45,452 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/trades.dart
+2024-10-20 14:52:45,454 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/trades.dart
+2024-10-20 14:52:45,454 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:45,454 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:45,455 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/jobs/ui/jobs_page.dart
+2024-10-20 14:52:47,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:47,633 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:47,633 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:47,634 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/jobs/application/contractor_jobs_bloc/contractor_jobs_bloc.dart
+2024-10-20 14:52:49,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:49,741 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job.dart
+2024-10-20 14:52:49,751 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job.dart
+2024-10-20 14:52:49,751 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:49,751 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:52:49,751 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:49,751 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:49,751 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/settings/ui/settings_page.dart
+2024-10-20 14:52:52,635 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:52,645 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:52,646 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:52:52,646 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/settings/ui/settings_desktop.dart
+2024-10-20 14:52:54,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:54,762 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/settings/ui/widgets/content.dart
+2024-10-20 14:52:59,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:52:59,831 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:52:59,839 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:52:59,839 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:59,839 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:52:59,839 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/accountancy/accountancy_settings.dart
+2024-10-20 14:52:59,843 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/accountancy/accountancy_settings.dart
+2024-10-20 14:52:59,843 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/contractor_bio/bio_section_in_settings.dart
+2024-10-20 14:52:59,844 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/contractor_bio/bio_section_in_settings.dart
+2024-10-20 14:52:59,844 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/debug_settings/debug_options.dart
+2024-10-20 14:52:59,844 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/debug_settings/debug_options.dart
+2024-10-20 14:52:59,844 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/marked_entities/marked_entities_in_settings.dart
+2024-10-20 14:52:59,844 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/marked_entities/marked_entities_in_settings.dart
+2024-10-20 14:52:59,845 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen_shared.dart
+2024-10-20 14:52:59,845 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen_shared.dart
+2024-10-20 14:52:59,845 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/subscription_section_in_settings/subscription_section_in_settings.dart
+2024-10-20 14:52:59,845 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/subscription_section_in_settings/subscription_section_in_settings.dart
+2024-10-20 14:52:59,845 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/bank_details_section/bank_details_panel.dart
+2024-10-20 14:52:59,846 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/bank_details_section/bank_details_panel.dart
+2024-10-20 14:52:59,846 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/settings_home.dart
+2024-10-20 14:52:59,846 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/settings_home.dart
+2024-10-20 14:52:59,846 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/navigation/nav_rail.dart
+2024-10-20 14:53:02,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:53:02,419 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/ui/theme_cubit.dart
+2024-10-20 14:53:02,426 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/ui/theme_cubit.dart
+2024-10-20 14:53:02,427 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme_switch.dart
+2024-10-20 14:53:02,431 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme_switch.dart
+2024-10-20 14:53:02,431 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/settings/ui/settings_mobile.dart
+2024-10-20 14:53:04,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:53:04,750 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:53:04,757 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:53:04,757 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/user_service.dart
+2024-10-20 14:53:04,761 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/user_service.dart
+2024-10-20 14:53:04,761 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_desktop.dart
+2024-10-20 14:53:04,762 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_desktop.dart
+2024-10-20 14:53:04,762 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_chat_screen.dart
+2024-10-20 14:53:04,762 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_chat_screen.dart
+2024-10-20 14:53:04,762 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_dashboard_screen.dart
+2024-10-20 14:53:04,763 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_dashboard_screen.dart
+2024-10-20 14:53:04,763 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_document_screen.dart
+2024-10-20 14:53:04,763 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_document_screen.dart
+2024-10-20 14:53:04,763 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_project_screen.dart
+2024-10-20 14:53:04,763 - INFO - Metadata already exists. Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_project_screen.dart
+2024-10-20 14:53:04,763 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_setting_screen.dart
