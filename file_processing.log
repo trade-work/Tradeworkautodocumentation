@@ -1,0 +1,804 @@
+2024-10-20 14:00:14,027 - INFO - Processing file: /Volumes/Mac-External/Development/test-twplatform/lib/main.dart
+2024-10-20 14:00:18,356 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:00:18,387 - INFO - Processing file: /Volumes/Mac-External/Development/test-twplatform/lib/_twcore/application/tenders/bloc/tenders_bloc.dart
+2024-10-20 14:02:59,660 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/.dart_tool/build/entrypoint/build.dart
+2024-10-20 14:03:01,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:01,777 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/.dart_tool/dartpad/web_plugin_registrant.dart
+2024-10-20 14:03:03,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:03,644 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/.dart_tool/flutter_build/2bc6bf09fa388c3aa3580c6c6256f0e7/main.dart
+2024-10-20 14:03:05,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:05,715 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/.dart_tool/flutter_build/2bc6bf09fa388c3aa3580c6c6256f0e7/web_plugin_registrant.dart
+2024-10-20 14:03:08,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:08,736 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_bloc.dart
+2024-10-20 14:03:10,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:10,718 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_event.dart
+2024-10-20 14:03:13,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:13,418 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_state.dart
+2024-10-20 14:03:16,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:03:16,152 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_bloc.dart
+2024-10-20 14:14:25,554 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:14:27,828 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:27,836 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_bloc.dart
+2024-10-20 14:14:30,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:30,100 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:14:32,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:32,267 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoicing_details_model.dart
+2024-10-20 14:14:34,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:34,692 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:14:37,373 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:37,377 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:14:40,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:40,424 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:14:42,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:42,997 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/tender_bid_feedback/tender_bid_feedback.dart
+2024-10-20 14:14:47,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:14:47,226 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:22:32,081 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/main.dart
+2024-10-20 14:22:34,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:34,784 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/tenders/bloc/tenders_bloc.dart
+2024-10-20 14:22:36,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:36,671 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/basic_user_details/basic_user_details.dart
+2024-10-20 14:22:38,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:38,515 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoicing_details_model.dart
+2024-10-20 14:22:40,625 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:40,635 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/location_model.dart
+2024-10-20 14:22:42,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:42,672 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/userpermissions/user_permissions_model.dart
+2024-10-20 14:22:45,294 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:45,297 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_tender/tender_bid.dart
+2024-10-20 14:22:47,987 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:48,003 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/tender_bid_feedback/tender_bid_feedback.dart
+2024-10-20 14:22:50,503 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:50,508 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/work/work.dart
+2024-10-20 14:22:52,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:52,493 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/development_project_model.dart
+2024-10-20 14:22:54,308 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:54,315 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_location/tw_location.dart
+2024-10-20 14:22:56,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:56,135 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/errors.dart
+2024-10-20 14:22:58,145 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:22:58,161 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/project_model/project_model.dart
+2024-10-20 14:23:00,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:00,397 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache_service.dart
+2024-10-20 14:23:02,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:02,032 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/full_user.dart
+2024-10-20 14:23:04,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:04,692 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/twuser_model/twuser_model.dart
+2024-10-20 14:23:06,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:06,909 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor/contractor_company_details.dart
+2024-10-20 14:23:09,340 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:09,344 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/user_bio/user_bio.dart
+2024-10-20 14:23:11,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:11,656 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoice_model.dart
+2024-10-20 14:23:15,784 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:15,797 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/invoiceItem_model.dart
+2024-10-20 14:23:17,667 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:17,669 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/user_bank_details.dart
+2024-10-20 14:23:20,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:20,766 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/trades.dart
+2024-10-20 14:23:23,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:23,646 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_document/tw_document.dart
+2024-10-20 14:23:26,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:26,746 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/cache.dart
+2024-10-20 14:23:29,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:29,046 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/service_locator/core_service_locator.dart
+2024-10-20 14:23:33,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:33,156 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/application/bloc/ai_chat_bloc/ai_chat_bloc_bloc.dart
+2024-10-20 14:23:35,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:35,685 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/services/ai_call_service.dart
+2024-10-20 14:23:37,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:37,655 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_ai_message_widget.dart
+2024-10-20 14:23:40,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:40,247 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_loader_image_widget.dart
+2024-10-20 14:23:42,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:42,099 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_user_message_widget.dart
+2024-10-20 14:23:43,685 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:43,691 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/global_search_feature/application/bloc/global_search_bloc.dart
+2024-10-20 14:23:46,125 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:46,143 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/menubar_feature/application/bloc/activity_notification_bloc.dart
+2024-10-20 14:23:48,718 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:48,722 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/enums.dart
+2024-10-20 14:23:51,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:51,377 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/user_service.dart
+2024-10-20 14:23:53,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:53,710 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/firebase_collections/tw_firebase_collections.dart
+2024-10-20 14:23:58,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:23:58,205 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_domain/company_domain.dart
+2024-10-20 14:24:01,206 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:01,208 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/company_name/company_name.dart
+2024-10-20 14:24:03,694 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:03,697 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/diplay_name/display_name.dart
+2024-10-20 14:24:05,954 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:05,958 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/phone/phone.dart
+2024-10-20 14:24:08,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:08,163 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/profile_completion/profile_completion_failure.dart
+2024-10-20 14:24:09,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:09,945 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_user_service_facade.dart
+2024-10-20 14:24:11,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:11,672 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/auth_service.dart
+2024-10-20 14:24:13,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:13,641 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/property/data/property_repository.dart
+2024-10-20 14:24:15,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:15,642 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/property_model.dart
+2024-10-20 14:24:19,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:19,300 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/financial_summary_model.dart
+2024-10-20 14:24:21,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:21,569 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/mortgage_model.dart
+2024-10-20 14:24:24,050 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:24,052 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/payment_model.dart
+2024-10-20 14:24:26,200 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:26,203 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/room_model.dart
+2024-10-20 14:24:28,096 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:28,100 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/tenant_model.dart
+2024-10-20 14:24:30,679 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:30,691 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/financial_summary_vo/financial_summary_vo.dart
+2024-10-20 14:24:34,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:34,595 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/money_vo/money_vo.dart
+2024-10-20 14:24:38,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:38,623 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/mortgage_vo/mortgage_vo.dart
+2024-10-20 14:24:40,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:40,873 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/amortisitaion_vo/amortization_schedule_entry_vo.dart
+2024-10-20 14:24:43,621 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:43,625 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/payments_vo/payments_vo.dart
+2024-10-20 14:24:45,983 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:45,987 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_description/property_description.dart
+2024-10-20 14:24:48,040 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:48,051 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/property_title/property_title.dart
+2024-10-20 14:24:50,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:50,506 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/rooms_vo/room_vo.dart
+2024-10-20 14:24:52,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:52,766 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/property/value_objects/tenant_vo/tenant_vo.dart
+2024-10-20 14:24:55,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:55,070 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/taj_facade.dart
+2024-10-20 14:24:58,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:24:58,398 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externallandmodel/externallandmodel.dart
+2024-10-20 14:25:00,437 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:00,451 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/maintenance_project_model/maintenance_project_model.dart
+2024-10-20 14:25:02,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:02,588 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/refurbishment_project_model/refurbishment_project_model.dart
+2024-10-20 14:25:05,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:05,607 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/research_model.dart
+2024-10-20 14:25:08,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:08,282 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_description_vo.dart
+2024-10-20 14:25:11,737 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:11,747 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_title_vo.dart
+2024-10-20 14:25:15,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:15,023 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/research/value_objects/research_type_vo.dart
+2024-10-20 14:25:18,085 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:18,090 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid/job_bid.dart
+2024-10-20 14:25:20,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:20,232 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/bid_feedback/job_bid_feedback/job_bid_feedback.dart
+2024-10-20 14:25:23,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:23,043 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/subbie_rating/subbie_rating.dart
+2024-10-20 14:25:26,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:26,332 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job.dart
+2024-10-20 14:25:28,919 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:28,934 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_min_length_string/tw_min_length_string.dart
+2024-10-20 14:25:31,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:31,082 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_number/tw_number.dart
+2024-10-20 14:25:33,228 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:33,233 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/job_feedback/job_feedback.dart
+2024-10-20 14:25:35,392 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:35,395 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/contractor_rating/contractor_rating.dart
+2024-10-20 14:25:37,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:37,489 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/job_action.dart
+2024-10-20 14:25:39,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:39,800 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/job/value_objects/job_timeline/job_timeline.dart
+2024-10-20 14:25:42,309 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:42,311 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/tw_date/tw_date.dart
+2024-10-20 14:25:44,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:44,598 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_room.dart
+2024-10-20 14:25:49,117 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:49,131 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/chat_models/chat_item.dart
+2024-10-20 14:25:52,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:52,655 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/services/chat_facade.dart
+2024-10-20 14:25:55,667 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:55,669 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/news_feature/services/event_facade.dart
+2024-10-20 14:25:57,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:25:57,578 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/event_models/event_item.dart
+2024-10-20 14:26:00,574 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:00,578 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_model.dart
+2024-10-20 14:26:02,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:02,786 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/tender_feedback/tender_feedback.dart
+2024-10-20 14:26:04,685 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:04,698 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/pki_feautre/services/get_public_key.dart
+2024-10-20 14:26:06,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:06,505 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/marked_user/marked_user.dart
+2024-10-20 14:26:08,818 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:08,831 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/email/email.dart
+2024-10-20 14:26:10,692 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:10,697 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/externaljob/external_job_model.dart
+2024-10-20 14:26:14,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:14,463 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invite_to_bid.dart
+2024-10-20 14:26:16,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:16,624 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/receipt_phooto.dart
+2024-10-20 14:26:19,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:19,124 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/company_number/company_number.dart
+2024-10-20 14:26:21,336 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:21,342 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/trading_name/trading_name.dart
+2024-10-20 14:26:23,730 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:23,745 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/vat_number/vat_number.dart
+2024-10-20 14:26:26,815 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:26,824 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/supplement_model.dart
+2024-10-20 14:26:29,324 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:29,329 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/feedback/work_feedback/supplement_feedback/supplement_feedback.dart
+2024-10-20 14:26:31,964 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:31,967 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/supplement/value_objects/supplement_timeline.dart
+2024-10-20 14:26:33,703 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:33,710 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender/tender_timeline.dart
+2024-10-20 14:26:36,541 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:36,545 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tender_invitation_mail/tender_invitation_email.dart
+2024-10-20 14:26:39,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:39,755 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/tw_notification/tw_notification.dart
+2024-10-20 14:26:42,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:42,875 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_account_number.dart
+2024-10-20 14:26:46,380 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:46,391 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/validated_object.dart
+2024-10-20 14:26:48,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:48,518 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user_bank_details/bank_sort_code.dart
+2024-10-20 14:26:51,578 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:51,581 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/admin/admin_model.dart
+2024-10-20 14:26:53,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:54,003 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/bid_on_supplement/supplement_bid.dart
+2024-10-20 14:26:56,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:56,361 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/services/invoice_service.dart
+2024-10-20 14:26:58,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:26:59,019 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/services/storage_service.dart
+2024-10-20 14:27:01,312 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:01,329 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/core/invoice_objects/invoice_description.dart
+2024-10-20 14:27:03,501 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:03,512 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/invoice_ref/invoice_ref.dart
+2024-10-20 14:27:06,257 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:06,261 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/invoicing/value_objects/payment_term/payment_term.dart
+2024-10-20 14:27:08,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:08,250 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/services/todo_facade.dart
+2024-10-20 14:27:10,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:10,690 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/models/to_do_task_model/to_do_task_model.dart
+2024-10-20 14:27:14,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:14,094 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/joint_tender_chat/joint_chat_bloc.dart
+2024-10-20 14:27:16,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:16,378 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/storage_facade.dart
+2024-10-20 14:27:18,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:18,511 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/ui/theme_cubit.dart
+2024-10-20 14:27:21,147 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:21,165 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:27:21,165 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_inputdecoration_schemes.dart
+2024-10-20 14:27:24,054 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:24,059 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_text_schemes.dart
+2024-10-20 14:27:27,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:27,013 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_theme.dart
+2024-10-20 14:27:30,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:30,089 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:27:30,089 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/auth_feature/application/sign_in_bloc/sign_in_bloc.dart
+2024-10-20 14:27:32,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:32,900 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/domain/auth/auth_failure.dart
+2024-10-20 14:27:35,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:35,348 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/services/firebase_auth_facade.dart
+2024-10-20 14:27:38,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:38,466 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/domain/auth/i_auth_facade.dart
+2024-10-20 14:27:41,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:41,606 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/password/password.dart
+2024-10-20 14:27:44,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:44,119 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/auth_feature/application/sign_up_bloc/sign_up_bloc.dart
+2024-10-20 14:27:46,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:46,808 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/authcode/authcode_model.dart
+2024-10-20 14:27:48,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:48,812 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/application/bloc/browse_land_bloc_bloc.dart
+2024-10-20 14:27:51,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:51,563 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/stream_jobs_bloc/stream_jobs_bloc.dart
+2024-10-20 14:27:53,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:53,603 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/auth_feature/screens/auth_screen.dart
+2024-10-20 14:27:56,180 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:56,192 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/auth_feature/screens/signin/view/signin_screen.dart
+2024-10-20 14:27:59,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:27:59,731 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:27:59,732 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_dashboard_screen.dart
+2024-10-20 14:28:02,660 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:02,666 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/build_context_extensions.dart
+2024-10-20 14:28:04,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:04,398 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/util/media_query_data_extensions.dart
+2024-10-20 14:28:08,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:08,918 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/dashboard/ui/desktop/developer_dashboard_desktop_screen.dart
+2024-10-20 14:28:10,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:10,826 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/navigation/developer_nav_items.dart
+2024-10-20 14:28:13,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:13,643 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/screens/find_screen.dart
+2024-10-20 14:28:17,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:17,019 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/screens/find_screen_desktop.dart
+2024-10-20 14:28:19,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:19,506 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/AiChat/ai_chat_ui.dart
+2024-10-20 14:28:21,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:21,961 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/application/bloc/ai_chat_bloc.dart
+2024-10-20 14:28:25,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:25,289 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/domain/message.dart
+2024-10-20 14:28:29,824 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:29,827 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/data/ai_chat_repository.dart
+2024-10-20 14:28:31,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:31,801 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/domain/ai_chat_response.dart
+2024-10-20 14:28:34,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:34,518 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/top_banner.dart
+2024-10-20 14:28:37,067 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:37,080 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/global_search_feature/widgets/search_widget.dart
+2024-10-20 14:28:40,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:40,053 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:28:40,054 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/application/bloc/document_viewer_bloc.dart
+2024-10-20 14:28:43,189 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:43,206 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/services/document_view_service.dart
+2024-10-20 14:28:44,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:44,688 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/services/my_doc_tree_service.dart
+2024-10-20 14:28:48,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:48,890 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/widgets/treenode_types.dart
+2024-10-20 14:28:51,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:51,427 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/services/shared_doc_tree_service.dart
+2024-10-20 14:28:53,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:53,735 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/tw_app_bar.dart
+2024-10-20 14:28:57,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:28:57,012 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen.dart
+2024-10-20 14:29:00,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:01,000 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_chat_view.dart
+2024-10-20 14:29:03,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:03,939 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/ai_feature/widgets/ai_user_input_widget.dart
+2024-10-20 14:29:06,713 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:06,717 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_desktop.dart
+2024-10-20 14:29:08,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:08,915 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/contractor_chat/all_chats/view/all_chats.dart
+2024-10-20 14:29:11,367 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:11,369 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/all_chats/bloc/allchats_bloc.dart
+2024-10-20 14:29:13,577 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:13,593 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/developer_chat/chat_room/view/chat_room.dart
+2024-10-20 14:29:16,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:16,087 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/developer_chat/chat_room/view/chat_items_lv.dart
+2024-10-20 14:29:17,932 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:17,938 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/cha_room/bloc/chatroom_bloc.dart
+2024-10-20 14:29:21,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:21,300 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:29:21,301 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/widgets/message_handler.dart
+2024-10-20 14:29:23,211 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:23,449 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/chat_feature/screen/chat_screen_mobile.dart
+2024-10-20 14:29:27,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:27,266 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/tw_drawer.dart
+2024-10-20 14:29:29,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:29,449 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen.dart
+2024-10-20 14:29:32,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:32,270 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_mobile.dart
+2024-10-20 14:29:34,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:34,870 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/screens/documents_screen_desktop.dart
+2024-10-20 14:29:37,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:37,891 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:29:37,891 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/screens/profile_completion_shared.dart
+2024-10-20 14:29:40,707 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:40,728 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/application/profile_completion_bloc/profilecompletion_bloc.dart
+2024-10-20 14:29:43,274 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:43,293 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company.dart
+2024-10-20 14:29:45,786 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:45,791 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_creation_failure.dart
+2024-10-20 14:29:47,769 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:47,771 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/company/company_update_failure.dart
+2024-10-20 14:29:50,537 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:50,540 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/user/i_company_service_facade.dart
+2024-10-20 14:29:52,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:52,742 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/pki_feautre/services/setup_pki.dart
+2024-10-20 14:29:55,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:29:55,133 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/profile_completion_feature/services/company_service.dart
+2024-10-20 14:30:00,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:00,433 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/raw_address_model.dart
+2024-10-20 14:30:02,291 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:02,306 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/place_service.dart
+2024-10-20 14:30:04,842 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:04,857 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/location/postciode_lookup_model.dart
+2024-10-20 14:30:06,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:06,890 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:30:06,891 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_feature/screens/screens/history_screen.dart
+2024-10-20 14:30:09,349 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:09,365 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_feature/screens/screens/completed_tenders.dart
+2024-10-20 14:30:11,777 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:11,792 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/oldux_to_delete/projects_screen_bloc/projects_screen_bloc.dart
+2024-10-20 14:30:14,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:14,770 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/application/tender_bids_bloc/tender_bids_bloc.dart
+2024-10-20 14:30:17,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:17,435 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/application/tender_docs_bloc/tender_docs_bloc.dart
+2024-10-20 14:30:21,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:21,645 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/application/tender_feedback/tender_feedback_bloc.dart
+2024-10-20 14:30:24,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:24,118 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/tenders/tender_documents_screen/tender_docs_screen.dart
+2024-10-20 14:30:27,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:27,339 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/widgets/process.dart
+2024-10-20 14:30:29,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:29,938 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/tenders/tender_documents_screen/tender_bids_lv.dart
+2024-10-20 14:30:32,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:32,193 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/tenders/tender_documents_screen/archive_bid_card.dart
+2024-10-20 14:30:36,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:36,567 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/settings/ui/widgets/bid_response_dialog.dart
+2024-10-20 14:30:38,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:38,334 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:30:38,334 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/tenders/tender_documents_screen/tender_bid_card.dart
+2024-10-20 14:30:41,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:41,530 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/screens/tw_document_card.dart
+2024-10-20 14:30:44,254 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:44,258 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_service.dart
+2024-10-20 14:30:46,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:46,699 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/external_land_services/external_land_service.dart
+2024-10-20 14:30:48,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:48,687 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/doc_selector.dart
+2024-10-20 14:30:51,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:51,133 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/upload_doc/upload_doc_bloc.dart
+2024-10-20 14:30:53,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:53,571 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:30:53,571 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/marketplace_feature/screens/find_work/find_work_screen.dart
+2024-10-20 14:30:56,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:56,049 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/tender_docs_bloc/bloc/tenderdocs_bloc.dart
+2024-10-20 14:30:59,256 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:30:59,269 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/tender_docs_screen.dart
+2024-10-20 14:31:02,101 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:02,104 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/chat_section_intender_docs.dart
+2024-10-20 14:31:05,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:05,588 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/development_detail.dart
+2024-10-20 14:31:10,309 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:10,314 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/docs_from_contractor.dart
+2024-10-20 14:31:13,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:13,192 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/docs_from_developer.dart
+2024-10-20 14:31:15,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:15,828 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/feedback_section.dart
+2024-10-20 14:31:18,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:18,676 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/tender_apply_section.dart
+2024-10-20 14:31:21,834 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:21,836 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen.dart
+2024-10-20 14:31:23,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:23,929 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen_desktop.dart
+2024-10-20 14:31:26,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:26,257 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/accountancy/accountancy_settings.dart
+2024-10-20 14:31:28,688 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:28,692 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/accounting/accounting.dart
+2024-10-20 14:31:30,804 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:30,820 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/application/accountancyLink_bloc/accountancy_link_bloc.dart
+2024-10-20 14:31:33,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:33,189 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/debug_settings/debug_options.dart
+2024-10-20 14:31:36,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:36,768 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/application/user_type_bloc/user_type_bloc_bloc.dart
+2024-10-20 14:31:39,418 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:39,431 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen_shared.dart
+2024-10-20 14:31:42,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:42,136 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tw_dialogs.dart
+2024-10-20 14:31:44,844 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:44,864 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mark_users_bloc/mark_users_bloc.dart
+2024-10-20 14:31:47,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:47,154 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/contractor_bio/bio_section_in_settings.dart
+2024-10-20 14:31:49,774 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:49,780 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bio_input_bloc/bio_input_bloc.dart
+2024-10-20 14:31:53,072 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:53,085 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/mobile_upload_doc_bloc/mupload_doc_bloc.dart
+2024-10-20 14:31:57,359 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:31:57,366 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/portfolio_bloc/portfolio_bloc.dart
+2024-10-20 14:32:00,509 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:00,512 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/auth/auth_failure.dart
+2024-10-20 14:32:02,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:02,523 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/m_file_picker.dart
+2024-10-20 14:32:04,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:04,585 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/marked_entities/marked_entities_in_settings.dart
+2024-10-20 14:32:06,487 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:06,503 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/mark_user_tile.dart
+2024-10-20 14:32:08,892 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:08,912 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/subscription_section_in_settings/subscription_section_in_settings.dart
+2024-10-20 14:32:11,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:11,030 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/bank_details_section/bank_details_panel.dart
+2024-10-20 14:32:13,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:13,716 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/bank_details_bloc/bank_details_bloc.dart
+2024-10-20 14:32:15,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:15,872 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/settings_home.dart
+2024-10-20 14:32:18,491 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:18,508 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/subbie_pro_details/pro_section_in_settings.dart
+2024-10-20 14:32:21,093 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:21,110 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/subscription_screen.dart
+2024-10-20 14:32:24,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:24,332 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/action_btn.dart
+2024-10-20 14:32:27,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:27,129 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/ll_app_bar.dart
+2024-10-20 14:32:30,295 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:30,309 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:32:30,310 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/tw_dialogs.dart
+2024-10-20 14:32:32,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:32,993 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/change_company_trader_type_bloc/change_company_trader_type_bloc.dart
+2024-10-20 14:32:35,839 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:35,856 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/invoices/create_invoice/limited_company_details_section.dart
+2024-10-20 14:32:39,808 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:39,830 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/add_invoice_bloc/add_invoice_bloc.dart
+2024-10-20 14:32:42,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:42,885 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/edit_limited_company_details_bloc/edit_limited_company_details_bloc.dart
+2024-10-20 14:32:44,900 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:44,912 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/settings/edit_invoicing_details_dialog.dart
+2024-10-20 14:32:47,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:47,544 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/invoices/create_invoice/sole_trader_section.dart
+2024-10-20 14:32:50,997 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:51,002 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/edit_sole_trader_details_bloc/edit_sole_trader_details_bloc.dart
+2024-10-20 14:32:54,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:54,172 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/complete_address_input.dart
+2024-10-20 14:32:56,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:56,541 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:32:56,541 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/settings_feature/screens/settings_screen_mobile.dart
+2024-10-20 14:32:58,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:32:58,564 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:32:58,564 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/my_tenders/tender_documents_screen/sections/tender_detail_section.dart
+2024-10-20 14:33:00,739 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:00,753 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/supplements/supplement_detail_screen.dart
+2024-10-20 14:33:03,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:03,472 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/supplements/supplement_detail_bloc/supplement_detail_bloc.dart
+2024-10-20 14:33:06,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:06,474 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/manage_jobs/bloc/managejobs_bloc.dart
+2024-10-20 14:33:09,306 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:09,322 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/jobs/manage_jobs/old_jobs_lv.dart
+2024-10-20 14:33:12,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:12,346 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/jobs_list_view.dart
+2024-10-20 14:33:16,226 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:16,242 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/jobcard.dart
+2024-10-20 14:33:19,064 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:19,081 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/application/development_detail_bloc/development_detail_bloc.dart
+2024-10-20 14:33:22,655 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:22,672 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/screens/development_detail/development_detail_view.dart
+2024-10-20 14:33:26,257 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:26,282 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/supplement_card.dart
+2024-10-20 14:33:28,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:28,916 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/tender_card.dart
+2024-10-20 14:33:30,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:30,812 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:33:30,813 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/card_title_template.dart
+2024-10-20 14:33:32,336 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:32,343 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/manage_jobs/manage_jobs_bloc.dart
+2024-10-20 14:33:34,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:34,499 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/manage_jobs.dart
+2024-10-20 14:33:36,712 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:36,729 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/job_detail/job_detail_bloc.dart
+2024-10-20 14:33:40,186 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:40,199 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail_popup_desktot.dart
+2024-10-20 14:33:43,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:43,461 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/chat_section.dart
+2024-10-20 14:33:46,397 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:46,410 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/contractor_rating_in_job_deail.dart
+2024-10-20 14:33:49,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:49,875 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/mark_contractors_bloc/mark_contractors_bloc.dart
+2024-10-20 14:33:51,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:51,945 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/mark_user_tile.dart
+2024-10-20 14:33:57,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:33:57,157 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/feedback_section.dart
+2024-10-20 14:34:00,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:00,090 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/pending_job_ratings/contractor_review_form.dart
+2024-10-20 14:34:02,476 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:02,489 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/find/controller/job_detail/job_detail_bloc.dart
+2024-10-20 14:34:05,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:05,718 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/invoice_section.dart
+2024-10-20 14:34:08,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:08,744 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/invoices/create_invoice/create_invoice_screen.dart
+2024-10-20 14:34:11,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:11,269 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/invoice_item/invoice_item_bloc.dart
+2024-10-20 14:34:15,302 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:15,325 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/amend_invoice_bloc/amend_invoice_bloc_bloc.dart
+2024-10-20 14:34:19,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:19,187 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/InvoiceWidgets/subbie_invoice_detailds_card.dart
+2024-10-20 14:34:21,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:21,953 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/invoices/subbies_invoice_detail_screen.dart
+2024-10-20 14:34:24,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:24,130 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/application/invoice_detail_bloc/invoice_detail_bloc.dart
+2024-10-20 14:34:26,975 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:26,989 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_api.dart
+2024-10-20 14:34:29,038 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:29,055 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/pdf_invoice_api.dart
+2024-10-20 14:34:31,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:31,343 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/services/pdf/utils.dart
+2024-10-20 14:34:33,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:33,702 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/job_requirements.dart
+2024-10-20 14:34:37,259 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:37,265 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail/offerd_section.dart
+2024-10-20 14:34:39,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:39,643 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/screens/manage_jobs/job_detail_screen_mobile.dart
+2024-10-20 14:34:42,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:42,445 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/contractor_rating.dart
+2024-10-20 14:34:44,578 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:44,592 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/subbie/user_subbie_features/widgets/bid_card.dart
+2024-10-20 14:34:47,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:47,723 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_project_screen.dart
+2024-10-20 14:34:50,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:50,500 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/desktop/developer_projects_desktop.dart
+2024-10-20 14:34:53,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:53,715 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:34:53,715 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/application/developer_projectscreen_bloc/developer_projectscreen_bloc.dart
+2024-10-20 14:34:56,655 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:56,669 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/data/projects_repository.dart
+2024-10-20 14:34:59,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:34:59,337 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/data/events_repository.dart
+2024-10-20 14:35:01,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:01,528 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/developer_project_forms/developer_development_project_form.dart
+2024-10-20 14:35:07,038 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:07,057 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/full_screen_dialog_header.dart
+2024-10-20 14:35:10,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:10,309 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/add_project_feature/applications/developement_project_form_bloc/development_project_form_bloc.dart
+2024-10-20 14:35:13,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:13,080 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_description/dev_description.dart
+2024-10-20 14:35:15,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:15,942 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/models/development_project_model/value_objects/dev_title/dev_title.dart
+2024-10-20 14:35:18,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:18,596 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/navigation/developer_nav_rail.dart
+2024-10-20 14:35:21,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:21,999 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_document_screen.dart
+2024-10-20 14:35:25,328 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:25,344 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/docs/ui/desktop/developer_documents_desktop.dart
+2024-10-20 14:35:27,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:27,194 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:35:27,195 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/docs/ui/mobile/developer_documents_mobile.dart
+2024-10-20 14:35:29,541 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:29,547 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/navigation/developer_nav_drawer.dart
+2024-10-20 14:35:31,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:31,438 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/screens/developer_chat_screen.dart
+2024-10-20 14:35:36,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:36,150 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/controller/project_chats/project_chats_bloc.dart
+2024-10-20 14:35:39,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:39,538 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/ui/desktop/developer_chats_desktop.dart
+2024-10-20 14:35:42,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:42,043 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:35:42,044 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/ui/widgets/all_chats_tile.dart
+2024-10-20 14:35:45,871 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:45,893 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/ui/widgets/chat_room_tile.dart
+2024-10-20 14:35:50,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:50,407 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/controller/chat_room_bloc/chat_room_bloc.dart
+2024-10-20 14:35:53,103 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:53,123 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/chat/ui/mobile/developer_chats_mobile.dart
+2024-10-20 14:35:55,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:55,591 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/theme_switch.dart
+2024-10-20 14:35:58,319 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:35:58,325 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tiles/project_details/project_details_tile.dart
+2024-10-20 14:36:01,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:01,231 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_expandable_fab.dart
+2024-10-20 14:36:05,942 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:05,960 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developer_plan/screen/developer_project_plan.dart
+2024-10-20 14:36:08,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:08,664 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/application/project_plan_bloc/dhx_gannt_bloc/dhx_gannt_project_plan_bloc.dart
+2024-10-20 14:36:11,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:11,263 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttAttachEvents.dart
+2024-10-20 14:36:14,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:14,839 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttFunctions.dart
+2024-10-20 14:36:17,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:17,638 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/application/project_plan_bloc/dhx_gannt_bloc/data.dart
+2024-10-20 14:36:19,874 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:19,879 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/application/project_plan_bloc/dhx_gannt_bloc/gantt_bloc_helper.dart
+2024-10-20 14:36:22,537 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:22,560 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttColumnConfig.dart
+2024-10-20 14:36:25,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:25,179 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttLightboxConfig.dart
+2024-10-20 14:36:27,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:27,946 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttSetUpConfg.dart
+2024-10-20 14:36:32,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:32,138 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttSetUpTemplates.dart
+2024-10-20 14:36:34,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:34,678 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/models/gantt_plan_model.dart
+2024-10-20 14:36:37,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:37,008 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttZoomFunctions.dart
+2024-10-20 14:36:39,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:39,577 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/services/ganttZoomSetup.dart
+2024-10-20 14:36:42,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:42,457 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/gantt_feature/screens/dhxgantscreen.dart
+2024-10-20 14:36:45,351 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:45,376 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/application/developer_project_details_bloc/developer_project_details_bloc.dart
+2024-10-20 14:36:49,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:49,399 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/services/project_doc_tree_service.dart
+2024-10-20 14:36:52,424 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:52,436 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/document_viewer_feature/widgets/mime_types.dart
+2024-10-20 14:36:59,060 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:36:59,071 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tender_form/tender_details_form.dart
+2024-10-20 14:37:01,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:01,975 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/data/tenders_repository.dart
+2024-10-20 14:37:04,951 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:04,972 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/application/tender_details_form_bloc/tender_details_form_bloc.dart
+2024-10-20 14:37:08,828 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:08,842 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/user_landlord_features/supplements/add_supplement_popup_screen copy.dart
+2024-10-20 14:37:11,163 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:11,185 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/application/add_supplement_bloc/add_supplement_bloc.dart
+2024-10-20 14:37:13,671 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:13,689 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tiles/active_companies_tile.dart
+2024-10-20 14:37:16,265 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:16,284 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tiles/news_tile.dart
+2024-10-20 14:37:18,474 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:18,487 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tiles/activity_details/tender_details/tender_details_tile.dart
+2024-10-20 14:37:21,700 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:21,711 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/tiles/activity_details/tender_details/overview/tender_overview.dart
+2024-10-20 14:37:25,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:25,125 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/field_view.dart
+2024-10-20 14:37:26,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:26,782 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/application/tender_details_bloc/tender_details_bloc.dart
+2024-10-20 14:37:29,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:29,585 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/developer/developments/ui/mobile/developer_dashboard_mobile.dart
+2024-10-20 14:37:32,804 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:32,808 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/widgets/common_open_container.dart
+2024-10-20 14:37:34,608 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:34,613 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:37:34,613 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_screen/work_screen.dart
+2024-10-20 14:37:37,557 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:37,578 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_screen/work_screen_desktop.dart
+2024-10-20 14:37:39,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:39,931 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/jobs/create_job/create_job_screen_popup.dart
+2024-10-20 14:37:42,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:42,546 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/jobs/ui/job_form_inputs.dart
+2024-10-20 14:37:44,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:44,808 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/jobs/application/create_job_bloc/create_job_bloc.dart
+2024-10-20 14:37:48,527 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:48,539 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/jobs/job_detail/job_detail_popsup_desktop.dart
+2024-10-20 14:37:51,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:51,247 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/bids_feedback_section.dart
+2024-10-20 14:37:54,722 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:54,728 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/job_detail/job_detail_bloc.dart
+2024-10-20 14:37:57,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:37:57,176 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/bids_section_in_job_detail.dart
+2024-10-20 14:38:01,097 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:01,103 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/bids_lv/bloc/bidslv_bloc.dart
+2024-10-20 14:38:03,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:03,785 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/bids_list_view.dart
+2024-10-20 14:38:06,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:06,808 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/services/bid_service.dart
+2024-10-20 14:38:09,086 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:09,100 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/invoicing_section_in_job_detail.dart
+2024-10-20 14:38:11,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:11,960 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/invoice_detailds_card.dart
+2024-10-20 14:38:14,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:14,960 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/invoices/contractor_invoice_detail_screen.dart
+2024-10-20 14:38:17,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:17,100 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/payment_feature/application/bloc/payment_bloc.dart
+2024-10-20 14:38:19,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:19,824 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/job_details_section.dart
+2024-10-20 14:38:21,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:21,759 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/job_feedbacks_section.dart
+2024-10-20 14:38:24,513 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:24,516 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/requirements_section.dart
+2024-10-20 14:38:26,484 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:26,495 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/job_review_form.dart
+2024-10-20 14:38:29,253 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:29,264 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/job_bid_feedback_bloc/job_bid_feedback_bloc.dart
+2024-10-20 14:38:31,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:31,663 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/complete_job_bloc/complete_job_bloc.dart
+2024-10-20 14:38:33,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:33,684 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/application/invite_bid_bloc/invite_bids_bloc.dart
+2024-10-20 14:38:35,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:35,433 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/screens/job_detail/invite_bid_popup.dart
+2024-10-20 14:38:37,814 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:37,832 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/services/email_service.dart
+2024-10-20 14:38:40,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:40,842 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/subbie_email_invite_card.dart
+2024-10-20 14:38:43,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:43,600 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/contractor/user_contractor_features/widgets/subbie_invite_card.dart
+2024-10-20 14:38:46,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:46,189 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/news_feature/screens/news_updates_screen_desktop.dart
+2024-10-20 14:38:48,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:48,873 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/screens/todo_screen_desktop.dart
+2024-10-20 14:38:52,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:52,750 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/screens/add_task_screen.dart
+2024-10-20 14:38:55,021 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:55,027 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/applications/tasks_bloc/tasks_bloc.dart
+2024-10-20 14:38:59,232 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:38:59,250 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/applications/todo_bloc/todo_bloc.dart
+2024-10-20 14:39:01,487 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:01,498 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/services/guid_gen.dart
+2024-10-20 14:39:04,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:04,211 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/todo_feature/screens/tabs_screen.dart
+2024-10-20 14:39:08,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:08,097 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/application/active_job_bloc/bloc/activejob_bloc.dart
+2024-10-20 14:39:11,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:11,348 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_screen/active_subbies_desktop.dart
+2024-10-20 14:39:14,455 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:14,476 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_screen/work_screen_mobile.dart
+2024-10-20 14:39:18,294 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:18,310 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/news_feature/screens/news_updates_screen_mobile.dart
+2024-10-20 14:39:21,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:21,078 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:39:21,078 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/shared_features/work_screen/active_subbies_mobile.dart
+2024-10-20 14:39:23,477 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:23,488 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/screens/landlord_documents_screen.dart
+2024-10-20 14:39:25,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:25,365 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/docs/ui/desktop/landlord_documents_desktop.dart
+2024-10-20 14:39:28,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:28,714 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:39:28,715 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/navigation/landlord_nav_items.dart
+2024-10-20 14:39:31,242 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:31,248 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/screens/landlord_dashboard_screen.dart
+2024-10-20 14:39:34,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:34,121 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/dashboard/ui/desktop/landlord_dashboard_desktop_screen.dart
+2024-10-20 14:39:36,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:36,136 - INFO - Skipping file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/_twcore/theme/tw_color_schemes.g.dart
+2024-10-20 14:39:36,137 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/navigation/landlord_nav_rail.dart
+2024-10-20 14:39:39,080 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 14:39:39,093 - INFO - Processing file: /Volumes/Mac-External/Development/Tradework/tradework_platform/lib/users/landlord/screens/landlord_chats_screen.dart
